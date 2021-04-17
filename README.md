@@ -6,5 +6,5 @@
 ## One Service   
 目标很明确，找到建设**全面**、**准确**、**实时**、**易用**和**统一规划**的报表体系。
 --- 
-* 文章列表
-## [BI完整性设计（未完待续）](https://github.com/sandsbai/practice-of-BI-design/blob/main/BI%E5%AE%8C%E6%95%B4%E6%80%A7%E8%AE%BE%E8%AE%A1.md)
+### 文章列表
+#### [BI完整性设计](https://github.com/sandsbai/practice-of-BI-design/blob/main/BI%E5%AE%8C%E6%95%B4%E6%80%A7%E8%AE%BE%E8%AE%A1.md)
